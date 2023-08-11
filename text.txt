@@ -1,7 +1,0 @@
-Hello Everyone, Assamualaikum..
-<<<<<<< HEAD
-sajib is added.
-=======
-
-sajib here
->>>>>>> cec5ed4bf7074952b7f042e1f44116d61927daee
