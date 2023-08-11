@@ -6,14 +6,18 @@ CREATE TABLE Countries (
 
 desc Countries ;
 
-insert all
-into Countries (Country_ID, Country_Name) values (10001,'AMERICA')
-into Countries (Country_ID, Country_Name) values (10002,'DUBAI')
-into Countries (Country_ID, Country_Name) values (10003,'BRAZIL')
-into Countries (Country_ID, Country_Name) values (10004,'JAPAN')
-into Countries (Country_ID, Country_Name) values (10005,'CANADA')
+
+INSERT ALL
+
+ INTO Countries VALUES (1, 'Bangladesh')
+ INTO Countries VALUES (2, 'India')
+ INTO Countries VALUES (3, 'Thailand')
+ INTO Countries VALUES (4, 'Malaysia')
+ INTO Countries VALUES (5, 'Singapore')
+
 SELECT * FROM dual;
 
 
 SELECT *
 FROM Countries;
+
